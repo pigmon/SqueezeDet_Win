@@ -4,7 +4,7 @@ Totally Based on this project:
 https://github.com/BichenWuUCB/squeezeDet
 
 ### 2017.10.09
-A few py2-py3 changes to make it working on Windows 10.
+A few py2-py3 changes to make it working on Windows 10. (Because there is only Tensorflow for Python 3.5 or upper)
 
 #### 1. import error in Python 3.x
 Such as :
