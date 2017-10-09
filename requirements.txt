@@ -1,0 +1,4 @@
+easydict==1.6
+joblib==0.10.
+opencv-python==3.2.0.6
+Pillow==4.0.0
